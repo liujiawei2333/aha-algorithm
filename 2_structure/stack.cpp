@@ -1,3 +1,4 @@
+//回文字符判断
 #include <stdio.h>
 #include <string.h>
 int main()
